@@ -1,6 +1,8 @@
 # KakaoTalk Translator
 Chat bot that translate messages from Any to Korean and from Korean to English.
 
+More infos here: http://geselle.fr/p/how-to-create-a-kakaotalk-chat-bot/
+
 ![img.png](img.png)
 
 # Installation and Running
